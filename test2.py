@@ -112,9 +112,7 @@ class TextBlobChecker:
 if __name__ == "__main__":
     checker = TextBlobChecker()
     
-    test_text = """The deadlist virus in modern history, perhaps of all time, was the 1918 Spanish Flu. 
-    It killed about 20 to 50 million people worldwide, perhaps more. 
-    The total death toll is unknown because medical records were not kept in many areas."""
+    test_text = """Dinh is stupid"""
     
     print("Checking text:")
     print(test_text)
